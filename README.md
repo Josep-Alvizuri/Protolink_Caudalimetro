@@ -21,6 +21,7 @@ El proyecto se enfoca en la precisión de la captura de pulsos y la robustez fre
 
 1. **Captura de Señal:** El sensor envía una frecuencia proporcional al flujo.
 2. **Procesamiento:** La PCB acondiciona la señal cuadrada para evitar falsas lecturas por vibración.
+3. **Comunicación:** La placa se comunica por Modbus RTU a un PLC u otro MCU
 
 ## 📁 Contenido Destacado
 * **`Esquemático`**: Archivos de exportación para el diseño de la carcasa/enclosure.
